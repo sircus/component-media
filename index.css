@@ -1,0 +1,18 @@
+/*
+ * sircus-tools-layout
+ ================================================== */
+
+.t-blockCenter {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.t-pullRight  { float: right !important; }
+.t-pullLeft   { float: left !important; }
+.t-pullNone   { float: none !important; }
+
+.t-static     { position: static !important; }
+.t-absolute   { position: absolute !important; }
+.t-fixed      { position: fixed !important; }
+.t-relative   { position: relative !important; }
