@@ -18,14 +18,14 @@ $ npm install sircus-tools-layout
 
 input.css
 ```css
-@import "sircus-tools-layout"
+@import "sircus-tools-layout";
 ```
 
 > use sass:
 
 input.scss
 ```css
-@import "node_modules/sircus-tools-layout/converted"
+@import "node_modules/sircus-tools-layout/converted";
 ```
 
 
