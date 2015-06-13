@@ -32,7 +32,6 @@ input.scss
 > html
 
 ```html
-<div class="t-blockCenter"></div>
 <div class="t-pullRight"></div>
 <div class="t-pullLeft"></div>
 <div class="t-pullNone"></div>
@@ -40,6 +39,7 @@ input.scss
 <div class="t-absolute"></div>
 <div class="t-fixed"></div>
 <div class="t-relative"></div>
+<div class="t-center"></div>
 ```
 
 
