@@ -2,11 +2,9 @@
 
 [![npm version](https://img.shields.io/npm/v/sircus-tools-layout.svg?style=flat)](https://www.npmjs.com/package/sircus-tools-layout)
 
-> A layout tools Module of Sircus.
-
 ## Installation
 
-> use npm:
+> npm:
 
 ```bash
 $ npm install sircus-tools-layout
@@ -14,17 +12,17 @@ $ npm install sircus-tools-layout
 
 ## Usage
 
-> use cssnext:
+> cssnext:
 
 input.css
 ```css
 @import "sircus-tools-layout";
 ```
 
-> use sass:
+> sass:
 
 input.scss
-```css
+```scss
 @import "node_modules/sircus-tools-layout/converted";
 ```
 
