@@ -2,17 +2,17 @@
  * sircus-tools-layout
  ================================================== */
 
-.t-pullRight  { float: right !important; }
-.t-pullLeft   { float: left !important; }
-.t-pullNone   { float: none !important; }
+.t-pullRight  { float: right; }
+.t-pullLeft   { float: left; }
+.t-pullNone   { float: none; }
 
-.t-static     { position: static !important; }
-.t-absolute   { position: absolute !important; }
-.t-fixed      { position: fixed !important; }
-.t-relative   { position: relative !important; }
+.t-static     { position: static; }
+.t-absolute   { position: absolute; }
+.t-fixed      { position: fixed; }
+.t-relative   { position: relative; }
 
 .t-center {
   display: block;
-  margin-left: auto !important;
-  margin-right: auto !important;
+  margin-left: auto;
+  margin-right: auto;
 }
