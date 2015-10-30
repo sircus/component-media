@@ -1,17 +1,17 @@
 {
   "name": "sircus-tools-layout",
-  "description": "Css layout tools Module for Sircus.",
+  "description": "Tools Module For Layout.",
   "version": "0.0.2",
   "homepage": "http://sircus.github.io",
   "keywords": [
-    "scalabe",
-    "design",
     "css",
-    "cssnext",
+    "design",
+    "modular",
+    "scalable",
     "rwd"
   ],
   "author": {
-    "name": "Yasuyuki Enomoto",
+    "name": "blivesta",
     "url": "http://blivesta.com"
   },
   "license": "MIT",
